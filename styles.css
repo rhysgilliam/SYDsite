@@ -1,0 +1,96 @@
+header {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 24px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px;
+}
+
+nav a:hover {
+  background-color: #ddd;
+}
+
+.image-container {
+  position: relative;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.image-text {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+.image-subtext {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 22px;
+  text-align: center;
+}
+
+.content-container {
+  display: flex;
+}
+
+.text-container {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.form-container {
+  flex: 1;
+  padding-left: 20px;
+}
+
+.form-container h3 {
+  margin-top: 0;
+}
+
+.form-container form {
+  margin-top: 10px;
+}
+
+.form-container label, .form-container input, .form-container button {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form-container input, .form-container button {
+  width: 100%;
+}
+
+.form-container button {
+  padding: 10px;
+}

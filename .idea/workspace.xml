@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64903713-ab9c-4a36-918f-c5b741bb3df9" name="Changes" comment="initial homepage and logo">
-      <change afterPath="$PROJECT_DIR$/.idea/images/Masthead-Oban.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/styles.css" afterDir="false" />
+    <list default="true" id="64903713-ab9c-4a36-918f-c5b741bb3df9" name="Changes" comment="front page placeholder image and text">
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/Masthead-Oban.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Masthead-Oban.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/syd.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/syd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +47,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rhys Gilliam\Documents\GitHub\SYD site\templates" />
+      <recent name="C:\Users\Rhys Gilliam\Documents\GitHub\SYD site" />
       <recent name="C:\Users\Rhys Gilliam\Documents\GitHub\SYD site\.idea\images" />
     </key>
   </component>
@@ -63,11 +68,19 @@
       <option name="project" value="LOCAL" />
       <updated>1684133440398</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="front page placeholder image and text">
+      <created>1684261203212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684261203212</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial homepage and logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial homepage and logo" />
+    <MESSAGE value="front page placeholder image and text" />
+    <option name="LAST_COMMIT_MESSAGE" value="front page placeholder image and text" />
   </component>
 </project>
