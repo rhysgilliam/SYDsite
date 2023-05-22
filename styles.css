@@ -94,3 +94,64 @@ img {
 .form-container button {
   padding: 10px;
 }
+
+.box-link {
+  text-decoration: none;
+}
+
+.box-container {
+  background-color: orange;
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 720px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.box-content {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.box-text {
+  flex: 1;
+  text-align: center;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.box-text h2 {
+  margin: 0;
+  color: white;
+}
+
+.box-text p {
+  margin: 5px 0;
+  color: white;
+}
+
+.box-image img {
+  width: 360px;
+  height: 480px;
+}
+
+.box-arrow {
+  color: white;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.box-arrow span {
+  margin-left: 5px;
+}
+
+.box-arrow p {
+  margin: 0;
+}

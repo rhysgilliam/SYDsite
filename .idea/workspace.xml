@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64903713-ab9c-4a36-918f-c5b741bb3df9" name="Changes" comment="front page placeholder image and text">
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/images/Masthead-Oban.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Masthead-Oban.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/images/syd.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/syd.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/styles.css" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/about us.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rhys Gilliam\Documents\GitHub\SYDsite\images" />
+      <recent name="C:\Users\Rhys Gilliam\Documents\GitHub\SYDsite\templates" />
       <recent name="C:\Users\Rhys Gilliam\Documents\GitHub\SYD site\templates" />
       <recent name="C:\Users\Rhys Gilliam\Documents\GitHub\SYD site" />
       <recent name="C:\Users\Rhys Gilliam\Documents\GitHub\SYD site\.idea\images" />
