@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64903713-ab9c-4a36-918f-c5b741bb3df9" name="Changes" comment="front page placeholder image and text">
-      <change afterPath="$PROJECT_DIR$/images/about us.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+    <list default="true" id="64903713-ab9c-4a36-918f-c5b741bb3df9" name="Changes" comment="added about us box (still needs tweaking)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +71,20 @@
       <option name="project" value="LOCAL" />
       <updated>1684261203212</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added about us box (still needs tweaking)">
+      <created>1684790438530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684790438530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial homepage and logo" />
     <MESSAGE value="front page placeholder image and text" />
-    <option name="LAST_COMMIT_MESSAGE" value="front page placeholder image and text" />
+    <MESSAGE value="added about us box (still needs tweaking)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added about us box (still needs tweaking)" />
   </component>
 </project>
