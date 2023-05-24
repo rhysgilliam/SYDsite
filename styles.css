@@ -1,3 +1,7 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
 header {
   background-color: #ffffff;
   display: flex;
@@ -45,6 +49,7 @@ img {
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
   color: white;
   font-size: 32px;
   text-align: center;
@@ -55,6 +60,7 @@ img {
   top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
   color: white;
   font-size: 22px;
   text-align: center;
@@ -100,23 +106,31 @@ img {
 }
 
 .box-container {
-  background-color: orange;
+  background-color: white;
   display: flex;
   justify-content: space-between;
-  margin-left: auto;
-  margin-right: auto;
   align-items: center;
   padding: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  width: 720px;
+  margin: 0 auto; /* Center the container on the page */
+  margin-top: 50px;
+  margin-bottom: 50px;
+  max-width: 1000px; /* Set a maximum width */
+  width: 100%; /* Make the container fill the available width */
   height: 300px;
   overflow: hidden;
+
+}
+
+.box-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .box-content {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 
@@ -129,12 +143,19 @@ img {
 
 .box-text h2 {
   margin: 0;
-  color: white;
+  color: #333333;
 }
 
 .box-text p {
   margin: 5px 0;
-  color: white;
+  color: black;
+}
+
+.box-image {
+  position: relative;
+  left: 39%;
+  flex: 1;
+  text-align: right;
 }
 
 .box-image img {
