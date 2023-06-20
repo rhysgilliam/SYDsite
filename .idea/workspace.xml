@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64903713-ab9c-4a36-918f-c5b741bb3df9" name="Changes" comment="added about us box (still needs tweaking)">
+    <list default="true" id="64903713-ab9c-4a36-918f-c5b741bb3df9" name="Changes" comment="nicer about us box">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684790438530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="nicer about us box">
+      <created>1684913507381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684913507381</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial homepage and logo" />
     <MESSAGE value="front page placeholder image and text" />
     <MESSAGE value="added about us box (still needs tweaking)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added about us box (still needs tweaking)" />
+    <MESSAGE value="nicer about us box" />
+    <option name="LAST_COMMIT_MESSAGE" value="nicer about us box" />
   </component>
 </project>
